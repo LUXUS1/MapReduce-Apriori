@@ -59,8 +59,7 @@ hadoop jar .<jar包路径> <inp_dir> <out_dir> <min_sup (0.0-1.0)> <min_conf (0.
 
 ![2020-06-07 08-47-26屏幕截图](https://github.com/LUXUS1/MapReduce-Apriori/blob/master/photo/2020-06-07%2008-47-26%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?raw=true)
 
-![2020-06-07 08-48-22屏幕截图](C:\Users\LUXUS\LUXUS\Desktop\1\photo\2020-06-07 08-48-22屏幕截图.png)
-
+![2020-06-07 08-48-22屏幕截图](https://github.com/LUXUS1/MapReduce-Apriori/blob/master/photo/2020-06-07%2008-48-22%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?raw=true)
 ## 四、实验结果
 
 执行完上述命令后，在Eclipse的 HDFS中的文件列表中会出现包含7个文件的output文件夹，如下图所示：
