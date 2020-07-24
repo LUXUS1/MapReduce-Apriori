@@ -64,6 +64,5 @@ hadoop jar .<jar包路径> <inp_dir> <out_dir> <min_sup (0.0-1.0)> <min_conf (0.
 
 执行完上述命令后，在Eclipse的 HDFS中的文件列表中会出现包含7个文件的output文件夹，如下图所示：
 
-![2020-06-07 08-56-34屏幕截图](C:\Users\LUXUS\LUXUS\Desktop\1\photo\2020-06-07 08-56-34屏幕截图.png)
-
+![2020-06-07 08-56-34屏幕截图](https://github.com/LUXUS1/MapReduce-Apriori/blob/master/photo/2020-06-07%2008-56-34%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 其中output-pass-k文件夹中为频繁k-项集 ，All-frequent-iteamsets文件夹中为所有频繁项集，rule-mining-out文件夹为所有强关联规则， final-output文件夹为最终输出文件 。
